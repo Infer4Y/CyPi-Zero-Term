@@ -2,6 +2,10 @@
 
 This handheld aims to bring command-line interfaces in most places you need it. The CyPi : Zero Term uses the raspberry pi zero wh as the heart of the handheld. It uses the Adafruit 1.3" Color TFT Bonnet a 256px by 256px display that includes a 5wat joystick and two tactile buttons. There are stl exports if you want to print it out and I will try and get instructions out on how to assemble it. The battery capacity would be 2000mAhs and will be managed by the Adafruit PowerBoost 1000 charger/USB power supply. My estimation on how long it'll run at idle would be 15 to 20 hours. I will print mine out in black and grey PLA filament. CYPI_Base.stl will be in grey for me,  CYPI_Sliding_Lid.stl would be Black, and CYPI_Faceplate.stl would be in grey.
 
+![](https://github.com/Infer4Y/CyPi-Zero-Term/blob/master/CyPi/render1.png)
+
+![](https://github.com/Infer4Y/CyPi-Zero-Term/blob/master/CyPi/render2.png)
+
 ![](https://github.com/Infer4Y/CyPi-Zero-Term/blob/master/CyPi/0823201502.jpg)
 
 ![](https://github.com/Infer4Y/CyPi-Zero-Term/blob/master/CyPi/0823201502a.jpg)
